@@ -6,3 +6,5 @@ def calculator(a,b):
   print(Sum, product)
 
 calculator(3,4)
+
+print ("Hello")
